@@ -1,0 +1,52 @@
+{
+  "id": 538866391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"ZA",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85688923,
+        102191573,
+        85633813,
+        101926257,
+        102089617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12753056"
+    },
+    "wof:country":"ZA",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":102089617,
+            "locality_id":101926257,
+            "postalcode_id":538866391,
+            "region_id":85688923
+        }
+    ],
+    "wof:id":538866391,
+    "wof:lastmodified":1460092675,
+    "wof:name":"1491",
+    "wof:parent_id":"101926257",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
