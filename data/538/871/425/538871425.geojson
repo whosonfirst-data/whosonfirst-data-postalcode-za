@@ -9,14 +9,15 @@
     "geom:latitude":0.0,
     "geom:longitude":0.0,
     "iso:country":"ZA",
+    "mz:hierarchy_label":1,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85688911,
+        85772219,
         102191573,
         85633813,
         101927935,
         102089571,
-        85772219
+        85688911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,10 +37,11 @@
         }
     ],
     "wof:id":538871425,
-    "wof:lastmodified":1460092832,
+    "wof:lastmodified":1474580193,
     "wof:name":"4008",
     "wof:parent_id":"85772219",
     "wof:placetype":"postalcode",
+    "wof:repo":"whosonfirst-data-postalcode-za",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
